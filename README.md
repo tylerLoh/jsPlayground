@@ -1,2 +1,3 @@
-# jsPlayground
-jsPlayground training
+# JavaScript Playground
+
+Refresh javascript knowledge 
