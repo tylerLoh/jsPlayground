@@ -1,3 +1,4 @@
+// closure method
 const nSum = a => b => (b ? nSumm(a + b) : a);
 const nSumm = a => {
 	return function(b) {
